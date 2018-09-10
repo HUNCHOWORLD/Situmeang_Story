@@ -1,5 +1,5 @@
 # Write a program that will add six to the user input and return the result!
 
-Print (' How old are you?')
+x=input('please enter a number! ')
 
-print(2*x)
+print(x+6) 
